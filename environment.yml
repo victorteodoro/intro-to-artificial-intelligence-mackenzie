@@ -1,0 +1,8 @@
+- name: intro-to-ai
+- channels:
+    - conda-forge
+    - defaults
+- dependencies:
+    - python
+    - jupyterlab
+    - minikanren
